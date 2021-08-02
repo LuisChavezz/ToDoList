@@ -72,8 +72,6 @@ btnBorrar.addEventListener('click', () => {
 
         
     }
-
-    console.log(todoList);
 });
 
 ulFiltros.addEventListener('click', (event) => {
